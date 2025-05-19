@@ -36,5 +36,5 @@ npm run dev
 ## 👤 Author
 
 - Name: Suraj Patil
-- LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/suraj0827/)
+- LinkedIn: (https://www.linkedin.com/in/suraj0827/)
 ```
