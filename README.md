@@ -10,7 +10,6 @@ An AI-powered customer support chat application built using React. Smooth UI wit
 
 - Responsive Sidebar with smooth transitions
 - Chat window and chat list UI
-- AI-based support assistant
 - Mobile-first design
 - Topbar navigation
 
@@ -20,6 +19,7 @@ An AI-powered customer support chat application built using React. Smooth UI wit
 - Tailwind CSS
 - React Icons
 - Vite
+- material UI
 
 ## 🚀 Getting Started
 
@@ -35,6 +35,6 @@ npm run dev
 
 ## 👤 Author
 
-- Name: Your Name
+- Name: Suraj Patil
 - LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/suraj0827/)
 ```
