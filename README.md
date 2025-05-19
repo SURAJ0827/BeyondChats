@@ -4,7 +4,7 @@ An AI-powered customer support chat application built using React. Smooth UI wit
 
 ## 🔗 Live Demo
 
-[Click here to try BeyondChats](https://your-live-site.vercel.app)
+[Click here to try BeyondChats](https://beyond-chats-khaki.vercel.app/)
 
 ## ✨ Features
 
